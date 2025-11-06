@@ -1,18 +1,3 @@
-Perfect 👍 berarti struktur repo kamu nanti kira-kira seperti ini:
-
-```
-📂 Tugas-Akhir-Judul-2
-├── Makhasin Muhammad - 2315061084.pkt
-├── Screenshot Ping blm Berhasil.png
-├── Screenshot Ping Berhasil.jpg
-└── README.md
-```
-
-Jadi kamu tinggal sesuaikan isi `README.md`-nya seperti ini 👇
-
----
-
-```markdown
 # 🧩 Cisco Packet Tracer — Build a Switch and Router Network
 
 ## 📘 Deskripsi Singkat
